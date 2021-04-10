@@ -1,0 +1,22 @@
+{
+  "name": "market-wizard-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleydavis/market-wizard-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ashleydavis/market-wizard-landing-page/issues"
+  },
+  "homepage": "https://github.com/ashleydavis/market-wizard-landing-page#readme",
+  "dependencies": {
+    "photoswipe": "^4.1.3"
+  }
+}
